@@ -1,0 +1,31 @@
+[33mcommit d6d7861bab104e154e5a7f24e64baa2d46818f6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jay <rao.jayatheertha@gmail.com>
+Date:   Mon Jan 6 14:42:53 2025 +0530
+
+    Add html-boilerplate directory with index.html
+    
+    index.html contains boilerplate of html. i.e. the basic and fundamental structure of a html page.
+
+[33mcommit 077e9e67e812a3cc58042237bb953d6576e9f761[m
+Author: Jay <rao.jayatheertha@gmail.com>
+Date:   Tue Dec 31 23:57:36 2024 +0530
+
+    Checking out the message/comment setting.
+
+[33mcommit 5f1c2f60d0ff675f70c2b5f2bd490208973e94e6[m
+Author: Jay <rao.jayatheertha@gmail.com>
+Date:   Tue Dec 31 14:54:55 2024 +0530
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 683164c0a1830cc76abef775795676a508f76399[m
+Author: Jay <rao.jayatheertha@gmail.com>
+Date:   Tue Dec 31 14:44:07 2024 +0530
+
+    add hello_world.txt
+
+[33mcommit bbeda40fc3eb74aee66abc5b9dd2f3ef80d7ed96[m
+Author: Jayatheertha S Rao <137502328+JayatheerthaSR@users.noreply.github.com>
+Date:   Tue Dec 31 14:14:25 2024 +0530
+
+    Initial commit

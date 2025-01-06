@@ -1,3 +1,8 @@
 # git_test
-Hello Odin!
-Welcome!
+Hello World!
+Welcome to my Odin Test Site!
+Please help yourself & explore
+
+Thank You for being my Guest!! 
+
+Visit First Text file #hello_world.txt
